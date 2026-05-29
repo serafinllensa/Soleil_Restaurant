@@ -546,7 +546,7 @@ body.custom-cursor-active [role="button"] {
     left: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(circle at center, rgba(13, 9, 6, 0.6) 0%, rgba(13, 9, 6, 0.85) 100%), url('imagenes/hero.png');
+    background: radial-gradient(circle at center, rgba(13, 9, 6, 0.6) 0%, rgba(13, 9, 6, 0.85) 100%), url('imagenes/hero.webp');
     background-size: cover;
     background-position: center;
     z-index: 1;
@@ -859,7 +859,7 @@ body.page-ready .hero-scroll-indicator {
     right: 20px;
     width: 70%;
     height: 400px;
-    background-image: url('imagenes/ourStory2.png');
+    background-image: url('imagenes/ourStory2.webp');
     background-size: cover;
     background-position: center;
     z-index: 3;
@@ -891,7 +891,7 @@ body.page-ready .hero-scroll-indicator {
     left: 10px;
     width: 45%;
     height: 260px;
-    background-image: url('imagenes/ourStory1.png');
+    background-image: url('imagenes/ourStory1.webp');
     background-size: cover;
     background-position: center;
     z-index: 4;
@@ -1224,18 +1224,18 @@ body.page-ready .hero-scroll-indicator {
     background-size: cover;
     background-position: center;
 }
-.menu-soup { background-image: url('imagenes/soupe.png'); }
-.menu-foie { background-image: url('imagenes/foiegrass.png'); }
-.menu-burrata { background-image: url('imagenes/burrata.png'); }
-.menu-duck { background-image: url('imagenes/magret.png'); }
-.menu-fish { background-image: url('imagenes/sole.png'); }
-.menu-beef { background-image: url('imagenes/cote.png'); }
-.menu-risotto { background-image: url('imagenes/rissoto.png'); }
-.menu-tarte { background-image: url('imagenes/tarte.png'); background-size: 135%; background-position: center; }
-.menu-creme { background-image: url('imagenes/cremebrulee.png'); background-size: 100%; background-position: center; }
-.menu-wine-bottle { background-image: url('imagenes/wine.png'); }
-.menu-cocktail-sun { background-image: url('imagenes/cocktail.png'); }
-.menu-cocktail-kir { background-image: url('imagenes/kirRoyal.png'); }
+.menu-soup { background-image: url('imagenes/soupe.webp'); }
+.menu-foie { background-image: url('imagenes/foiegrass.webp'); }
+.menu-burrata { background-image: url('imagenes/burrata.webp'); }
+.menu-duck { background-image: url('imagenes/magret.webp'); }
+.menu-fish { background-image: url('imagenes/sole.webp'); }
+.menu-beef { background-image: url('imagenes/cote.webp'); }
+.menu-risotto { background-image: url('imagenes/rissoto.webp'); }
+.menu-tarte { background-image: url('imagenes/tarte.webp'); background-size: 135%; background-position: center; }
+.menu-creme { background-image: url('imagenes/cremebrulee.webp'); background-size: 100%; background-position: center; }
+.menu-wine-bottle { background-image: url('imagenes/wine.webp'); }
+.menu-cocktail-sun { background-image: url('imagenes/cocktail.webp'); }
+.menu-cocktail-kir { background-image: url('imagenes/kirRoyal.webp'); }
 .menu-card-body {
     padding: 1.5rem;
     display: flex;
@@ -1412,7 +1412,7 @@ body.page-ready .hero-scroll-indicator {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('imagenes/chef.png');
+    background-image: url('imagenes/chef.webp');
     background-size: cover;
     background-position: center top;
 }
@@ -1775,23 +1775,23 @@ body:not(.page-ready) {
     background-position: center;
 }
 .gallery-item[data-index="1"] { height: 380px; }
-.item-1-grad { background-image: url('imagenes/gallery1.png'); }
+.item-1-grad { background-image: url('imagenes/gallery1.webp'); }
 .gallery-item[data-index="2"] { height: 260px; }
-.item-2-grad { background-image: url('imagenes/gallery2.png'); }
+.item-2-grad { background-image: url('imagenes/gallery2.webp'); }
 .gallery-item[data-index="3"] { height: 320px; }
-.item-3-grad { background-image: url('imagenes/gallery7.png'); }
+.item-3-grad { background-image: url('imagenes/gallery7.webp'); }
 .gallery-item[data-index="4"] { height: 280px; }
-.item-4-grad { background-image: url('imagenes/gallery4.png'); }
+.item-4-grad { background-image: url('imagenes/gallery4.webp'); }
 .gallery-item[data-index="5"] { height: 420px; }
-.item-5-grad { background-image: url('imagenes/gallery5.png'); }
+.item-5-grad { background-image: url('imagenes/gallery5.webp'); }
 .gallery-item[data-index="6"] { height: 240px; }
-.item-6-grad { background-image: url('imagenes/gallery6.png'); }
+.item-6-grad { background-image: url('imagenes/gallery6.webp'); }
 .gallery-item[data-index="7"] { height: 350px; }
-.item-7-grad { background-image: url('imagenes/gallery8.png'); }
+.item-7-grad { background-image: url('imagenes/gallery8.webp'); }
 .gallery-item[data-index="8"] { height: 300px; }
-.item-8-grad { background-image: url('imagenes/gallery3.png'); }
+.item-8-grad { background-image: url('imagenes/gallery3.webp'); }
 .gallery-item[data-index="9"] { height: 420px; }
-.item-9-grad { background-image: url('imagenes/gallery0.png'); }
+.item-9-grad { background-image: url('imagenes/gallery0.webp'); }
 .gallery-gradient-overlay {
     position: absolute;
     bottom: 0;
@@ -2872,10 +2872,10 @@ body:not(.page-ready) {
     background-position: center;
 }
 .event-1-grad {
-    background-image: url('imagenes/privateDinning.png');
+    background-image: url('imagenes/privateDinning.webp');
 }
 .event-2-grad {
-    background-image: url('imagenes/chefsexperience.png');
+    background-image: url('imagenes/chefsexperience.webp');
 }
 .event-card-body {
     padding: 2.5rem;
@@ -3195,12 +3195,12 @@ body:not(.page-ready) {
 .instagram-post:hover .insta-gradient {
     transform: scale(1.05);
 }
-.insta-grad-1 { background-image: url('imagenes/instagram1.png'); }
-.insta-grad-2 { background-image: url('imagenes/instagram2.png'); }
-.insta-grad-3 { background-image: url('imagenes/instagram3.png'); }
-.insta-grad-4 { background-image: url('imagenes/instagram4.png'); }
-.insta-grad-5 { background-image: url('imagenes/instagram5.png'); }
-.insta-grad-6 { background-image: url('imagenes/instagram6.png'); }
+.insta-grad-1 { background-image: url('imagenes/instagram1.webp'); }
+.insta-grad-2 { background-image: url('imagenes/instagram2.webp'); }
+.insta-grad-3 { background-image: url('imagenes/instagram3.webp'); }
+.insta-grad-4 { background-image: url('imagenes/instagram4.webp'); }
+.insta-grad-5 { background-image: url('imagenes/instagram5.webp'); }
+.insta-grad-6 { background-image: url('imagenes/instagram6.webp'); }
 .instagram-overlay {
     position: absolute;
     top: 0;
